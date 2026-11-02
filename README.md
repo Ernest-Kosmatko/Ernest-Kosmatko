@@ -5,9 +5,13 @@
 
 ## About
 
-Interested in cybersecurity, Linux, computer networking and modern IT infrastructure, with a focus on hands-on projects and system security. Based in Poznan, Poland.
+I do penetration testing of web applications, APIs and infrastructure, sometimes cloud configuration, for e-commerce, manufacturing and finance companies. Most of the work is freelance and under NDA.
 
-## Projects
+I am most interested in the bugs scanners miss: business logic and permission flaws, the things that only show up when someone really tries to get around the system. I write reports so a developer can understand the problem and fix it without follow-up questions.
+
+I am looking for new engagements and contacts in the industry. If you want your application tested, or just want to talk security, get in touch.
+
+## Personal projects
 
 | Project | Description |
 |---|---|
@@ -18,7 +22,3 @@ Interested in cybersecurity, Linux, computer networking and modern IT infrastruc
 | [Webhygiene](https://github.com/Ernest-Kosmatko/Webhygiene) | HTTP security header, cookie and TLS checker |
 | [Dirbrute](https://github.com/Ernest-Kosmatko/Dirbrute) | Web content discovery with soft-404 detection |
 | [Pentest-report-template](https://github.com/Ernest-Kosmatko/Pentest-report-template) | Penetration test report template with an example finding |
-
-## Focus
-
-Web application and API testing, network reconnaissance, reporting.
