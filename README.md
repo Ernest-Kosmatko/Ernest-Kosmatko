@@ -14,3 +14,8 @@ Interested in cybersecurity, Linux, computer networking and modern IT infrastruc
 | [Netrecon](https://github.com/Ernest-Kosmatko/Netrecon) | Network reconnaissance and vulnerability scanner: CVE detection, banner grabbing, HTML/JSON/CSV reports |
 | [Hcx](https://github.com/Ernest-Kosmatko/Hcx) | hashcat wrapper adding job management, reporting, attack planning, hash identification and tuning |
 | [SiegeGraph](https://github.com/Ernest-Kosmatko/SiegeGraph) | Attack-path mapping and evidence management for authorized penetration tests |
+| [Portscan](https://github.com/Ernest-Kosmatko/Portscan) | Multithreaded TCP port scanner with banner grabbing |
+| [Webhygiene](https://github.com/Ernest-Kosmatko/Webhygiene) | HTTP security header, cookie and TLS checker with text, JSON and HTML reports |
+| [Dirbrute](https://github.com/Ernest-Kosmatko/Dirbrute) | Web content discovery with soft-404 detection |
+| [Pentest-report-template](https://github.com/Ernest-Kosmatko/Pentest-report-template) | Penetration test report template with an example finding |
+
