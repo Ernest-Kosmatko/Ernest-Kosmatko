@@ -1,4 +1,4 @@
-<img src="neofetch.svg" alt="ernest@kosmatko: Cybersecurity, Linux, Networking" width="100%">
+<img src="banner.svg" alt="ernest@kosmatko: Cybersecurity, Linux, Networking" width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ernest_Kosmatko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernest-kosmatko-9b5574448/)
 [![Email](https://img.shields.io/badge/Email-erkosmatko@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erkosmatko@gmail.com)
