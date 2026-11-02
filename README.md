@@ -18,6 +18,8 @@ I am looking for new engagements and contacts in the industry. If you want your 
 | [NetRecon](https://github.com/Ernest-Kosmatko/NetRecon) | Network reconnaissance and vulnerability scanner with CVE signatures and HTML, JSON and CSV reports |
 | [Hcx](https://github.com/Ernest-Kosmatko/Hcx) | hashcat wrapper with job management, reporting, attack planning and tuning |
 | [SiegeGraph](https://github.com/Ernest-Kosmatko/SiegeGraph) | Attack-path mapping and evidence management for authorized penetration tests |
+| [authmatrix](https://github.com/Ernest-Kosmatko/authmatrix) | Authorization tester for REST APIs: replays requests across identities and finds BOLA, BFLA, mass assignment and business logic flaws |
+| [ShopAPI-Lab](https://github.com/Ernest-Kosmatko/ShopAPI-Lab) | Deliberately vulnerable shop API (IDOR, mass assignment, business logic) with write-ups and fixes |
 | [Portscan](https://github.com/Ernest-Kosmatko/Portscan) | Multithreaded TCP port scanner with banner grabbing |
 | [Webhygiene](https://github.com/Ernest-Kosmatko/Webhygiene) | HTTP security header, cookie and TLS checker |
 | [Dirbrute](https://github.com/Ernest-Kosmatko/Dirbrute) | Web content discovery with soft-404 detection |
