@@ -24,3 +24,4 @@ I am looking for new engagements and contacts in the industry. If you want your 
 | [Webhygiene](https://github.com/Ernest-Kosmatko/Webhygiene) | HTTP security header, cookie and TLS checker |
 | [Dirbrute](https://github.com/Ernest-Kosmatko/Dirbrute) | Web content discovery with soft-404 detection |
 | [Pentest-report-template](https://github.com/Ernest-Kosmatko/Pentest-report-template) | Penetration test report template with an example finding |
+| [Receipts](https://github.com/Ernest-Kosmatko/Receipts.git) | Claude Code skill that makes the agent prove its work: real tests, screenshots and a verdict computed from the evidence |
